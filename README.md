@@ -2,6 +2,8 @@ Tiny Arcade Games
 
 ![image](https://github.com/user-attachments/assets/f0eabf16-461b-4714-9e4c-7d9401167a77)
 
+*Parts list can be found in the Instructables linkl below*
+
 I've recently taken the leap into playing around with microcontrollers, specifically the 8 bit ATtiny85 and so far it's been a blast!
 
 The games available are your classic arcade games like Frogger, Space Attack, Breakout, Snake, Pong, and others. It still blows my mind that you can fit a whole game into one of these tiny IC's!
