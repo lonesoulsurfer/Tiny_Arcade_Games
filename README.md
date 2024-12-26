@@ -10,7 +10,7 @@ For those new to ATtiny microcontrollers, It is a small, integrated, 8 pin IC, s
 
 Don't worry if you a totally new to all of this. I have created this project with beginners in mind so if you have some basic soldering skills and a computer you shouldn't have any issues building your own. I've used through hole components and off-the-shelf parts which you can buy cheaply from Ali-Express etc.
 
-I've also published a repository in GutHub on how to program an ATtiny 85 which you can find here: https://github.com/lonesoulsurfer/ATtiny_85_Programmer  
+I've published a repository in GutHub on how to program an ATtiny 85 which you can find here: https://github.com/lonesoulsurfer/ATtiny_85_Programmer  
 
 Here is a video of the games in action: https://www.youtube.com/watch?v=dKiPz_Yv8tA&feature=youtu.be
 
